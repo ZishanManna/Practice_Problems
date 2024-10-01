@@ -6,11 +6,13 @@ using namespace std;
 // Define the Person class with name and age attributes
 class Person {
 public:
-    Person(string name, int age) : name(name), age(age) {}
-
-private:
-    string name;  // Name attribute
-    int age;      // Age attribute
+    Person(string name, int age) {
+        name = person_name;
+        age = person_age;
+            }
+//public attributes
+    string name;  
+    int age;      
 };
 
 int main() {
