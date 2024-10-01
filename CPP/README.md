@@ -1,5 +1,5 @@
 # Inheritance and Classes in C++
-This project demonstrates the use of inheritance and classes in C++ by creating a series of classes (Person, Student, and Teacher) and performing operations on their objects. The project is divided into several problems, each building on the previous one.
+This problems demonstrates the use of inheritance and classes in C++ by creating a series of classes (Person, Student, and Teacher) and performing operations on their objects. 
 
 
 ## Problem Descriptions
