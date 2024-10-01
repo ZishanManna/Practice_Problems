@@ -4,7 +4,7 @@ using namespace std;
 
 // Define the Person class with name and age attributes
 class Person {
-public:
+private:
     // Constructor to initialize name and age
     Person(string person_name, int person_age) {
       name = person_name;
