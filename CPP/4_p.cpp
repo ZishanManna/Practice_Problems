@@ -41,7 +41,7 @@ public:
 
 int main() {
     // Create an instance of the Student class
-    Student student1("Charlie", 20, "Computer Science");
+    Student student1("Ahmed", 20, "Computer Science");
 
     // Call print_info() on the Student instance
     student1.print_info();
