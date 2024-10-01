@@ -26,8 +26,8 @@ This problems demonstrates the use of inheritance and classes in C++ by creating
 - Create an instance of Teacher and call print_info() on it.
 
 ## How to Compile and Run
-**Compile the Code:**
+### Compile the Code:
 g++ -o main main.cpp
 
-**Run the Executable:**
+### Run the Executable:
 ./main
