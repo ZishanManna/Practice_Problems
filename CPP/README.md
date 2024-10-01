@@ -24,3 +24,10 @@ This problems demonstrates the use of inheritance and classes in C++ by creating
 - Add a constructor that takes name, age, and salary as parameters.
 - Add a method called print_info() that prints out the name, age, and salary of the teacher.
 - Create an instance of Teacher and call print_info() on it.
+
+## How to Compile and Run
+**Compile the Code:**
+g++ -o main main.cpp
+
+**Run the Executable:**
+./main
