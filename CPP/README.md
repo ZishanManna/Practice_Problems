@@ -29,7 +29,8 @@ This problems demonstrates the use of inheritance and classes in C++ by creating
 ### Compile the Code:
 ```bash
 g++ -o main main.cpp
-
+```
 ### Run the Executable:
 ```bash
 ./main
+```
